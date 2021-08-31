@@ -6409,3 +6409,15 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY Activator 1 0 2021-08-31 15:29:38.369
 !MESSAGE Has main method computation for project 'backend-1'
+
+!ENTRY Activator 1 0 2021-08-31 15:41:08.578
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2021-08-31 15:41:08.579
+!MESSAGE Has main method computation for project 'backend-1'
+
+!ENTRY Activator 1 0 2021-08-31 15:41:37.321
+!MESSAGE Has main method computation for project 'backend'
+
+!ENTRY Activator 1 0 2021-08-31 15:41:37.323
+!MESSAGE Has main method computation for project 'backend-1'
